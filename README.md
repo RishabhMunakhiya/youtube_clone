@@ -1,7 +1,4 @@
 # youtube_clone
-Here’s an even more casual and personal version of the README:  
-
----
 
 # 🎥 YouTube Clone  
 
